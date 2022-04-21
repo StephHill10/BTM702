@@ -5,8 +5,8 @@ body {
     'Open Sans', 'Helvetica Neue', sans-serif;
   }
   h1 {
-    color: rgb(99, 25, 37);
-    font-size: 50px;
+    color: maroon;
+    font-size: 70px;
   }
   img {
     max-width: 250px;
@@ -21,7 +21,7 @@ body {
   }
   .header {
     width: auto;
-    border-bottom: 3pt solid rgb(99, 25, 37);
+    border-bottom: 3pt solid maroon;
     padding: 0px 100px;
     margin-bottom: 100px;
   }
